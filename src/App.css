@@ -45,3 +45,8 @@ body {
   align-items: center;
   gap: 20px;
 }
+
+.back {
+  width: 1000px;
+  height: 1500px;
+}
